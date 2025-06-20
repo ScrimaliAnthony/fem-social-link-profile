@@ -1,0 +1,17 @@
+{
+  "name": "fem-social-link-profile",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Anthony Scrimali",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server src",
+    "sass": "sass --watch src/style.scss src/style.css"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.89.2"
+  }
+}
